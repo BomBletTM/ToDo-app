@@ -19,13 +19,13 @@ Long task text is competently transferred, and when adding a large number of tas
 
 ## 📸 Screenshot
 
-![ToDo main page](./screenshot/todo-main.png)
+![ToDo main page](./screenshots/todo-main.png)
 
-![ToDo main page with tasks](./screenshot/todo-main-with-tasks.png)
+![ToDo main page with tasks](./screenshots/todo-main-with-tasks.png)
 
-![ToDo active page](./screenshot/todo-active.png)
+![ToDo active page](./screenshots/todo-active.png)
 
-![ToDo completed page](./screenshot/todo-completed.png)
+![ToDo completed page](./screenshots/todo-completed.png)
 
 ## 📁 Project Structure
 
